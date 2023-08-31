@@ -1,5 +1,5 @@
 # DYNAMIC: First Person Controller
-# Head Bob:
+# Head Bobbing:
 ![The Island](https://user-images.githubusercontent.com/40639410/233672295-532696e5-a227-4aa4-aa76-1fd09793661e.jpg)
 # Breathing:
 ![The Island](https://user-images.githubusercontent.com/40639410/233672295-532696e5-a227-4aa4-aa76-1fd09793661e.jpg)
@@ -22,6 +22,8 @@ This Demo showcases my DYNMAIC: First Person Controller
 # How to Use
 - Download File
 - Drop Player Prefab into your scene
+- Play Game
+- *Make sure to only have 1 camera active in scene
 
 # Controls
 - WASD to Move
